@@ -1,0 +1,17 @@
+{
+    "name": "leckerlione-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Gesine Todt"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/leckerlione-bower.git"
+    },
+    "description": "Leckerli One font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
